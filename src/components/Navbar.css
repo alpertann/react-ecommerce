@@ -1,0 +1,42 @@
+.input-icon{
+    display: flex;
+    position: absolute;
+    margin-left: 51.5%;
+    padding: 10px;
+    min-width: 40px;
+}
+
+.input-icon:hover{
+    cursor: pointer;
+}
+
+.search-input{
+    width: 25%;
+    border-radius: 99px;
+    margin: 4px;
+    background-color: transparent;
+    padding: 10px;
+    margin-bottom: 3px;
+    border: 1px solid gray;
+}
+
+.nav-link{
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+}
+
+.nav-item{
+    display: inline-block;
+    position: relative;
+}
+
+.nav-item::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    color: blue;
+}
