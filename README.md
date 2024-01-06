@@ -24,7 +24,8 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone  https://github.com/alpertann/react-ecommerce
+
 ```
 
 Go to the project directory
@@ -59,9 +60,5 @@ Start the server
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
